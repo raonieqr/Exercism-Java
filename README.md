@@ -1,4 +1,6 @@
 # Exercism-Java
+My profile https://exercism.org/profiles/raonieqr
+
 Java challenges done in exercism:
 
 birdWatcher:
